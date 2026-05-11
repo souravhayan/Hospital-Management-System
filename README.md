@@ -47,5 +47,5 @@ Manual testing, Jira test cases, bug reports, and test summary documents for thi
 ## Project Status
 This project was developed for academic learning and software testing practice purposes.
 
-## Developed and Tested by
+## Developed by
 Sourav Halder
