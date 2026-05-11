@@ -1,12 +1,15 @@
 # Hospital_Management_System
 
 ## Project Overview
-Hospital Management System is a web-based application developed using PHP and MySQL to manage hospital operations efficiently. The system includes modules for authentication, department management, doctor management, patient management, appointment scheduling, medical records, and billing.
+Hospital Management System is a web-based project developed using PHP and MySQL for managing basic hospital operations. The system includes modules for authentication, departments, doctors, patients, appointments, medical records, and billing.
 
-The project provides an admin-controlled environment with full CRUD functionality and basic hospital workflow management features.
+The project provides an admin-controlled environment with full CRUD functionality and supports core hospital workflow management operations.
+
+## Live Demo
+🔗 https://hms.page.gd/
 
 ## Features
-- Admin Authentication System
+- Admin Login System
 - Department Management
 - Doctor Management
 - Patient Management
@@ -20,9 +23,6 @@ The project provides an admin-controlled environment with full CRUD functionalit
 ## Technologies Used
 - PHP
 - MySQL
-- HTML
-- CSS
-- JavaScript
 
 ## Modules
 - Login & Authentication
@@ -45,7 +45,7 @@ Manual testing, Jira test cases, bug reports, and test summary documents for thi
 🔗 https://github.com/souravhayan/Hospital-Management-System-Jira-Testing
 
 ## Project Status
-The project was developed for academic learning and software testing practice purposes.
+This project was developed for academic learning and software testing practice purposes.
 
-## Author
+## Developed and Tested by
 Sourav Halder
